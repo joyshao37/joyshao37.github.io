@@ -11,7 +11,7 @@ titles:
   zh-CN   : *ZH_HANS
   zh-SG   : *ZH_HANS
   zh-Hant : &ZH_HANT  關於
-  zh-TW   : *ZH_HANT
+  zh-TW   : &ZH_HANT  關於
   zh-HK   : *ZH_HANT
   ko      : &KO       소개
   ko-KR   : *KO
